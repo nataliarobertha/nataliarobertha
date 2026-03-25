@@ -10,12 +10,15 @@ Sou uma entusiasta da tecnologia em transição para o desenvolvimento de softwa
 - ⚡ Estudando: Python
 - 🎯 Objetivo: Construir uma carreira sólida como desenvolvedora.
 - 📫 Contato: [natalia.emidio@aluno.cps.sp.gov.br]
-</p>                                
+</p>    
+
 ## 🚀 Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
+
+
 ## 🌐 Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/natália-robertha-emídio-86099319a/" target="_blank">
@@ -24,5 +27,5 @@ Sou uma entusiasta da tecnologia em transição para o desenvolvimento de softwa
   <a href="mailto:[natalia.emidio@aluno.cps.sp.gov.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p  >
+
 
