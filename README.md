@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://canva.link/u5djyxvtcnfx2kb" width="350" />
+  <img src="https://github.com/nataliarobertha/nataliarobertha/blob/main/nataliar.png?raw=true" width="350" />
 </p>                                            
 
 # Olá, eu sou a Natalia Robertha! 👋
