@@ -11,9 +11,6 @@ Sou uma entusiasta da tecnologia em transição para o desenvolvimento de softwa
 - 🎯 Objetivo: Construir uma carreira sólida como desenvolvedora.
 - 📫 Contato: [natalia.emidio@aluno.cps.sp.gov.br]
 
-## 🛠 Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
 </p>                                
 
