@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nataliarobertha/nataliarobertha/blob/main/nr.png?raw=true" width="350" />
+  <img src="https://github.com/nataliarobertha/nataliarobertha/blob/main/nr.png?raw=true" Height="300 " Length="900"/>
 </p>                                            
 
 # Olá, eu sou a Natalia Robertha! 👋
@@ -10,8 +10,6 @@ Sou uma entusiasta da tecnologia em transição para o desenvolvimento de softwa
 - ⚡ Estudando: Python
 - 🎯 Objetivo: Construir uma carreira sólida como desenvolvedora.
 - 📫 Contato: [natalia.emidio@aluno.cps.sp.gov.br]
-
-  
 </p>                                
 
 ## 🌐 Conecte-se comigo
@@ -22,4 +20,5 @@ Sou uma entusiasta da tecnologia em transição para o desenvolvimento de softwa
   <a href="mailto:[natalia.emidio@aluno.cps.sp.gov.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p  >
+
